@@ -1,0 +1,21 @@
+import 'dart:ui';
+
+const appGreyColor1 = Color(0xff828282);
+const appGreyColor2 = Color(0xff4F4F4F);
+const appGreyColor3 = Color(0xffBDBDBD);
+const appYellowColor = Color(0xffF2C94C);
+const appBlackColor = Color(0xff000000);
+const appOrangeColor = Color(0xffF2994A);
+const appWhiteColor1 = Color(0xffffffff);
+const appWhiteColor2 = Color(0xffF8F8F8);
+const appLightGreenColor = Color(0xffB4DC2F);
+const appDarkGreenColor = Color(0xffCDFF06);
+const appDeepGreenColor = Color(0xff00424E);
+const appBlackColor2 = Color(0xff010101);
+const appLoginBtnTextColor = Color(0xff667085);
+const appLoginBtnTextColor2 = Color(0xff101524);
+const appLoginScreenBodyText = Color(0xffE0E0E0);
+const appBtmBarColor = Color(0xff161E3D);
+const appDarkBGColor = Color(0xff101525);
+const appDarkSearchBoxColor = Color(0xff202538);
+const appCategoryTextDarkColor = Color(0xff111830);

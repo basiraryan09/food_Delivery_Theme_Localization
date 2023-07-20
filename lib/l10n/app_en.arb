@@ -1,0 +1,29 @@
+
+
+{
+   "language": "English",
+   "chooseLanguage": "Choose Language",
+   "welcomeText": "Welcome",
+   "bodyText": "Find your favorite food easily. We'll get you so fast.",
+   "btnText1": "Login with Google",
+   "btnText2": "Login with Email or phone",
+   "richText1": "Don't have an account yet?",
+   "richText2": " SignUp now",
+   "yourLocation": "Your Location",
+   "currentLocation": "The current location is unknown",
+   "allText": "All",
+   "pizza": "Pizza",
+   "hamburger": "Hamburger",
+   "hotDog": "Hot Dog",
+   "meet": "Meet",
+   "loremIpsum": "Lorem Ipsum dolor sit amet, constructor is good to use",
+   "price1": "$124",
+   "starRating": "5.0",
+   "price2": "234",
+   "orderList": "Order List",
+   "cartText": "Cart",
+   "priceText": "Price",
+   "deliveryText": "Delivery Text",
+   "totalOrderText": "Total Order",
+   "nextBtn": "Next"
+}

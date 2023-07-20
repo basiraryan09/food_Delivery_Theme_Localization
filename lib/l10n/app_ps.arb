@@ -1,0 +1,29 @@
+
+
+{
+  "language": "پښتو",
+  "chooseLanguage": "ژبه غوره کړئ",
+  "welcomeText": "ښه راغلاست",
+  "bodyText": "په اسانۍ سره خپل د خوښې خواړه ومومئ. موږ به تاسو ته ډیر ژر ورسوو.",
+  "btnText1": "د ګوګل سره ننوتل",
+  "btnText2": "د بریښنالیک یا تلیفون سره ننوتل",
+  "richText1": "تراوسه حساب نه لرئ؟",
+  "richText2": "همدا اوس لاسلیک وکړئ",
+  "yourLocation": "ستاسو ځای",
+  "currentLocation": "اوسنی ځای معلوم نه دی",
+  "allText": "ټول",
+  "pizza": "پیزا",
+  "hamburger": "هیمبرګر",
+  "hotDog": "هاټ ډاګ",
+  "meet": "غوښه",
+  "loremIpsum": "جوړونکی د کارولو لپاره ښه دی",
+  "price1": "$124",
+  "starRating": "5.0",
+  "price2": "234",
+  "orderList": "د امر لیست",
+  "cartText": "کارټ",
+  "priceText": "قیمت",
+  "deliveryText": "د سپارلو متن",
+  "totalOrderText": "ټول نظم",
+  "nextBtn": "بل"
+}

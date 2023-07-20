@@ -1,0 +1,29 @@
+
+
+{
+  "language": "नेपाली",
+  "chooseLanguage": "भाषा छान्नुहोस्",
+  "welcomeText": "स्वागत छ",
+  "bodyText": "सजिलै आफ्नो मनपर्ने खाना खोज्नुहोस्। हामी तपाईंलाई धेरै छिटो ल्याउनेछौं।",
+  "btnText1": "Google मार्फत लगइन गर्नुहोस्",
+  "btnText2": "इमेल वा फोन मार्फत लगइन गर्नुहोस्",
+  "richText1": "अझै खाता छैन?",
+  "richText2": "अहिले साइन अप गर्नुहोस्",
+  "yourLocation": "तपाईंको स्थान",
+  "currentLocation": "हालको स्थान अज्ञात छ",
+  "allText": "सबै",
+  "pizza": "पिज्जा",
+  "hamburger": "ह्याम्बर्गर",
+  "hotDog": "हट डग",
+  "meet": "मासु",
+  "loremIpsum": "कन्स्ट्रक्टर प्रयोग गर्न राम्रो छ",
+  "price1": "$124",
+  "starRating": "5.0",
+  "price2": "234",
+  "orderList": "अर्डर सूची",
+  "cartText": "कार्ट",
+  "priceText": "मूल्य",
+  "deliveryText": "डेलिभरी पाठ",
+  "totalOrderText": "कुल अर्डर",
+  "nextBtn": "अर्को"
+}

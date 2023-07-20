@@ -1,0 +1,29 @@
+
+
+{
+  "language": "English",
+  "chooseLanguage": "ভাষা নির্বাচন করুন",
+  "welcomeText": "স্বাগত",
+  "bodyText": "সহজেই আপনার পছন্দের খাবার খুঁজুন। আমরা আপনাকে খুব দ্রুত পেতে হবে.",
+  "btnText1": "গুগল দিয়ে লগইন করুন",
+  "btnText2": "ইমেইল বা ফোন দিয়ে লগইন করুন",
+  "richText1": "কোনো একাউন্ট এখনও আছে না?",
+  "richText2": "এখন সাইন আপ করুন",
+  "yourLocation": "তোমার অবস্থান",
+  "currentLocation": "বর্তমান অবস্থান অজানা",
+  "allText": "সব",
+  "pizza": "পিজা",
+  "hamburger": "হ্যামবার্গার",
+  "hotDog": "হট ডগ",
+  "meet": "মাংস",
+  "loremIpsum": "Lorem Ipsum dolor sit amet, constructor ব্যবহার করা ভাল",
+  "price1": "$124",
+  "starRating": "5.0",
+  "price2": "234",
+  "orderList": "অর্ডার তালিকা",
+  "cartText": "কার্ট",
+  "priceText": "দাম",
+  "deliveryText": "ডেলিভারি টেক্সট",
+  "totalOrderText": "মোট অর্ডার",
+  "nextBtn": "পরবর্তী"
+}
